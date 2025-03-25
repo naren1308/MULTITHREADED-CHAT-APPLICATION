@@ -16,3 +16,4 @@ This Java-based client-server chat application utilizes sockets and multithreadi
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/aea5ac94-87e0-4f49-9b87-d517392b0c7a)
